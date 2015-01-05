@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:039329_0000_10146C54378E2EE8"/>
-            <pb facs="tcp:039329_0001_10146A1092AA80E0" rendition="simple:additions"/>
+            <pb facs="unknown:039329_0000_10146C54378E2EE8"/>
+            <pb facs="unknown:039329_0001_10146A1092AA80E0"
+                rendition="simple:additions"/>
             <head>Province of the Maſſachuſetts-Bay ſſ. <figure>
                   <figDesc>seal</figDesc>
                </figure> By the HONORABLE, THE Lieutenant Governour, and Commander in Chief. A Proclamation. For Preventing and Puniſhing Immorality and Prophaneneſs.</head>
